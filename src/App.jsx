@@ -19,6 +19,7 @@ const App = () => {
     });
     AOS.refresh();
   }, []);
+
   return (
     <>
     <div className='bg-white overflow-x-hidden dark:bg-gray-900 dark:text-white'>

@@ -25,11 +25,11 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Islamabad, Pakistan</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>+92 0123456789</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            @copyright 2024 All rights reserved || Made by Nauman Ahmed
+            &copy; copyright 2024 All rights reserved || Made by Nauman Ahmed
           </div>
         </div>
       </section>

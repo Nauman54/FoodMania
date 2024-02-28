@@ -24,8 +24,8 @@ const Navbar = () => {
                                 <li>
                                     <a href="#" className='inline-block px-4 py-4 hover:text-primary'>Home</a>
                                 </li>
-                                <li>
-                                    <a href="#" className='inline-block px-4 py-4 hover:text-primary'>About</a>
+                                <li >
+                                    <a href="#" className='inline-block px-4 py-4 hover:text-primary'>Services</a>
                                 </li>
                                 <li>
                                     <a href="#" className='inline-block px-4 py-4 hover:text-primary'>Contact</a>
