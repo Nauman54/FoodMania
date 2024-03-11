@@ -47,8 +47,8 @@ const Hero = () => {
                 Welcome to {" "}
                 <span class="bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary">
                   Food
-                </span>{" "}
-                Mania
+                </span>{""}
+                io
               </h1>
               <p className='text-sm text-white'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus iure nobis illo nisi adipisci similique eligendi in amet alias veritatis?
